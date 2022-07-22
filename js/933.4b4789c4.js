@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkridharemix_github_io"]=self["webpackChunkridharemix_github_io"]||[]).push([[933],{5933:function(i,n,r){r.r(n),r.d(n,{default:function(){return d}});var t=r(3396);const u={class:"about"},a=(0,t._)("h1",null,"This is an contact page",-1),e=[a];function c(i,n){return(0,t.wg)(),(0,t.iD)("div",u,e)}var s=r(89);const h={},o=(0,s.Z)(h,[["render",c]]);var d=o}}]);
+//# sourceMappingURL=933.4b4789c4.js.map
